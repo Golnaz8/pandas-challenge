@@ -1,0 +1,27 @@
+Introduction
+    As the Chief Data Scientist for the city's school district, this report aims to analyze district-wide standardized test results to provide insights into school performance. By evaluating metrics such as average scores, passing rates, and the impact of school characteristics on student performance, we want to help the school board and mayor make informed decisions regarding future school budgets and priorities.
+
+Summary of Analysis:
+    The analysis involved aggregating and summarizing data from both the school and student levels to identify trends in school performance. We focused on the following key metrics:
+        Total Number of Unique Schools: There are 15 unique schools in the district.
+        Total Students: The district serves 39,170 students across all schools.
+        Total Budget: The total budget allocated to the district is $24,649,428.
+        Average Math Score: The average math score across the district is 78.99.
+        Average Reading Score: The average reading score across the district is 81.88.
+        % Passing Math: Approximately 74.98% of students passed their math exams.
+        % Passing Reading: About 85.81% of students passed their reading exams.
+        % Overall Passing: 65.17% of students passed both their math and reading exams.
+    These metrics provide a snapshot of the district's overall academic performance and financial situation.
+
+Key Conclusions and Comparisons:
+    Higher Spending Does Not Mean Better Academic Performance
+        Schools with lower spending per student have the highest average math and reading scores, as well as the highest percentage of students passing both math and reading. But when the spending per student increases, there is a noticeable decline in academic performance metrics, including average scores and passing rates. This suggests that simply increasing spending per student does not guarantee improved academic outcomes. Other factors, may play a more significant role in student success.
+
+    Impact of School Type on Student Performance
+        Charter Schools Outperform District Schools: Our analysis shows that charter schools generally have higher passing rates in both math and reading compared to district schools. For example, charter schools achieved an average overall passing rate of around 90%, whereas district schools had an average passing rate closer to 60%. This indicates that charter schools may be providing more focused educational support or benefiting from different instructional methodologies. This finding suggests that adopting some of the practices used in charter schools could potentially benefit district schools.
+
+    School Size Influences Academic Success
+        Smaller Schools Show Higher Passing Rates: When analyzing the performance of schools based on their size, we observed that smaller schools (with fewer than 1,000 students) had significantly higher overall passing rates compared to larger schools. Specifically, smaller schools had an average passing rate of over 80%, while larger schools (with more than 2,000 students) had passing rates averaging below 65%. This suggests that smaller class sizes and more personalized attention might contribute to better student outcomes. This insight could guide future resource allocation, such as reducing class sizes in larger schools to improve student performance.
+
+Conclusion
+    The analysis reveals significant differences in student performance based on school type, size and capita. Charter schools and smaller schools tend to outperform their counterparts, suggesting that targeted interventions in larger district schools could help close the performance gap, also only increasing spending per student does not guarantee improved academic outcomes. To improve overall district performance, it may be beneficial to investigate and adopt effective practices from high-performing schools and consider strategies to manage school size and student-teacher ratios effectively.
